@@ -4,9 +4,6 @@ import ApiCall from './task1';
 import Task2 from './task2';
 
 export default function App() {
-  // ApiCall;
-  // console.log('W');
-
   return (
     <div>
       <h1>Webcube Frontend Interviews </h1>

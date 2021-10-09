@@ -20,7 +20,11 @@ function ApiCall() {
         }
       );
   }, []);
-  console.log(items);
+  if (isLoaded) {
+    console.log(items);
+  } else {
+    console.log('Loading...');
+  }
   return <div>Just Check Console!</div>;
 }
 

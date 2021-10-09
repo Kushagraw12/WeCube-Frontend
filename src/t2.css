@@ -21,6 +21,7 @@ form,
 h4 {
   color: white;
   font-weight: 800;
+  opacity: 0.8;
 }
 
 input {
@@ -106,6 +107,7 @@ button {
   .task2 {
     width: 60%;
     margin-left: 8%;
+    background-color: rgb(58, 58, 255, 0.8);
   }
   .sec2 {
     width: 70%;
