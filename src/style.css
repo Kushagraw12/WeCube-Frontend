@@ -1,0 +1,13 @@
+h1,
+h3,
+p {
+  font-family: Lato;
+}
+h1 {
+  color: rgb(0, 119, 255);
+  font-size: 28px;
+}
+
+span {
+  font-size: 6px;
+}
